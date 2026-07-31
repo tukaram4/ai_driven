@@ -1,0 +1,1 @@
+This project closely mirrors the workflow used by analytics teams in companies such as Amazon, Flipkart, Deloitte, Accenture, TCS, and Infosys, making it an excellent portfolio piece for data analyst and business intelligence roles.
